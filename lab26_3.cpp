@@ -1,5 +1,5 @@
 #include<iostream>
-
+#include<set>
 using namespace std;
 
 int count(int data[100],int size){
